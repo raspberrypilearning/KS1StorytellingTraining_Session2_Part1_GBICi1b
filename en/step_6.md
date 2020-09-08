@@ -35,3 +35,5 @@ Part two of this session explores two lessons in detail giving you the opportuni
 
 Click on this link to access [Session 2, Part 2](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session2_Part2_GBICi1b).
 
+**Please DO NOT click the green 'What's next' button (below-right) as this link is not relevant to this training course.**
+
