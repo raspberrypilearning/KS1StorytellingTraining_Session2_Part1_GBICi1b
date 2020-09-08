@@ -26,7 +26,7 @@ Work your way through each lesson exploring the Lesson Plan and its relationship
 Make a note of anything which you need to clarify. You can use the feedback form to ask questions to the trial community. Or get in touch with us if you have any queries at any time before, during or after the trial by emailing the Gender Research Mailbox on [genderresearch@raspberrypi.org](genderresearch@raspberrypi.org).
 
 **Presentation Slides**
-All the Presentation Slides are structured in a consistent way beginning with a  Lesson Objective and Success Criteria. This introduction is followed by the lesson activities. The last three slides of every lesson’s Presentation Slides always include the following slides: Plenary; an Assessment of the pupils’ confidence; and details on the Next lesson.
+All the Presentation Slides are structured in a consistent way beginning with a Lesson Objective and Success Criteria. This introduction is followed by the lesson activities. The last three slides of every lesson’s Presentation Slides always include the following slides: a Plenary; an assessment of the pupils’ confidence; and details on the Next lesson.
 
 ![Modelling explore Presentation Slides](images/ks1storytelling-PresentationSlides.gif)
 
