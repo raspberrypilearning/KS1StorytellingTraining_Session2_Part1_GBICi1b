@@ -1,13 +1,14 @@
 ## Part 1
 ## Lesson Plans and Presentation Slides
 Now, having read the overview and undertaken Lesson 1, Unit 1 ,you will now explore the 11 lessons in turn. Each lesson includes a Lesson Plan and Presentation Slides.
+
 You are now going to have the opportunity to explore the learning resources independently. You should take time now within the course to:
 + Get to grips with the units as a whole
 + Consider how you can best implement the Storytelling approach in your own classroom with your own learners.
 
 This is a good opportunity to familiarise yourself with the ScratchJr tasks provided. We suggest that you take around an hour now to access and explore the resources, and then return to this course for the final pieces of information about data collection and ongoing support.
 
-##Lesson Plans##
+**Lesson Plans**
 All the Lesson Plans are structured in a consistent way with the following sub-headings:
 + Lesson overview
 + Learning objectives
@@ -24,7 +25,7 @@ Work your way through each lesson exploring the Lesson Plan and its relationship
 
 Make a note of anything which you need to clarify. You can use the feedback form to ask questions to the trial community. Or get in touch with us if you have any queries at any time before, during or after the trial by emailing the Gender Research Mailbox on [genderresearch@raspberrypi.org](genderresearch@raspberrypi.org).
 
-##Presentation Slides##
+**Presentation Slides**
 All the Presentation Slides are structured in a consistent way beginning with a  Lesson Objective and Success Criteria. This introduction is followed by the lesson activities. The last three slides of every lesson’s Presentation Slides always include the following slides: Plenary; an Assessment of the pupils’ confidence; and details on the Next lesson.
 
 ![Modelling explore Presentation Slides](images/ks1storytelling-PresentationSlides.gif)
