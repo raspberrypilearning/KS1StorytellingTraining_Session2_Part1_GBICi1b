@@ -23,13 +23,13 @@ The table in the Outline plan breaks down delivery of the lesson in to timed act
 
 Work your way through each lesson exploring the Lesson Plan and its relationship to the Presentation Slides. Allowing yourself time for preparation now will give you the best chance to incorporate the Storytelling teaching approach into your lessons when the trial begins. 
 
-Make a note of anything which you need to clarify. You can use the feedback form to ask questions to the trial community. Or get in touch with us if you have any queries at any time before, during or after the trial by emailing the Gender Research Mailbox on [genderresearch@raspberrypi.org](genderresearch@raspberrypi.org).
-
 **Presentation Slides**
 All the Presentation Slides are structured in a consistent way beginning with a Lesson Objective and Success Criteria. This introduction is followed by the lesson activities. The last three slides of every lesson’s Presentation Slides always include the following slides: a Plenary; an assessment of the pupils’ confidence; and details on the Next lesson.
 
 ![Modelling explore Presentation Slides](images/ks1storytelling-PresentationSlides.gif)
 
-Investigate the resources. Make a note of anything which you need to clarify. You can use the feedback form to ask questions to the trial community. Or get in touch with us if you have any queries at any time before, during or after the trial by emailing the Gender Research Mailbox on genderresearch@raspberrypi.org.
+Investigate the resources.
+
+Make a note of anything which you need to clarify. You can use the feedback form to ask questions to the trial community. Or get in touch with us via email if you have any queries at any time before, during or after the trial via [genderresearch@raspberrypi.org](mailto:genderresearch@raspberrypi.org).
 
 Part two of this session explores two lessons in detail giving you the opportunity to develop a working understanding of the relationship between the Lesson Plans and the Presentation Slides as well as to experience the lessons from the pupils' perspective. You will begin to code in ScratchJr and develop an interactive animation.
