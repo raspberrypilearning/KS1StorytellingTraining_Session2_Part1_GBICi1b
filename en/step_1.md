@@ -1,5 +1,5 @@
 ## Part 1: Introduction to KS1 Storytelling resources
-Part 1 introduces you to the online Storytelling resources through links, video and tasks. There are 2 tasks in Part 1.
+Part 1 introduces you to the online Storytelling resources through links, video and tasks. There are two tasks in Part 1.
 
 ## Accessing the Storytelling resources
 In this session, you are going to focus on the lesson resources you will need for the Teaching Approach trial. You will have an opportunity to explore all the resources for yourself, try them out and think about how to implement the lessons in your own classroom.
