@@ -1,7 +1,15 @@
-## What next?
+## Overview
 
-If you are following the [PathwayName](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) pathway, you can move on to the [ProjectName](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will make a (add description here).
+The first document you need to read is the Units Overview which provides essential information relating to the teaching approach Storytelling trial, including details on preparing for the Units.
 
-![ProjectName project](images/projectname-project.png)
+You can see that each lesson is set out with a brief description and the learning objectives and success criteria for that lesson. The overview also includes links to the relevant lesson plans and resources. 
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+You will note that some of the information in the Unit Overview, such as data collection, has been covered elsewhere in the training sessions. This document offers a useful place to go as a signpost and reminder of key considerations. The document includes:
++ Introduction
++ Resources
++ Subject knowledge
++ ScratchJr app
++ Devices and live demonstration
++ Survey
+
+![Modelling Unit Overview](images/ks1storytelling-UnitOverview.gif)
