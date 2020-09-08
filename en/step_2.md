@@ -1,4 +1,4 @@
-## The resources
+## Part 1: The resources
 
 The teaching resource folder includes:
 + Units Overview (GoogleDoc)
