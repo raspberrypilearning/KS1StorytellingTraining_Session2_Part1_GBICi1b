@@ -1,4 +1,4 @@
-## Part 1 Investigate online Storytelling resources
+## Part 1: Introduction to KS1 Storytelling resources
 Part 1 introduces you to the online Storytelling resources through links, video and tasks. There are 2 tasks in Part 1.
 
 ## Accessing the Storytelling resources
