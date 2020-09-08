@@ -1,4 +1,3 @@
-## Part 1
 ## Lesson Plans and Presentation Slides
 Now, having read the overview and undertaken Lesson 1, Unit 1 ,you will now explore the 11 lessons in turn. Each lesson includes a Lesson Plan and Presentation Slides.
 
