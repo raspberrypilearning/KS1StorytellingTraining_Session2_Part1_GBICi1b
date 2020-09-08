@@ -1,5 +1,4 @@
-##Part 1
-##Task 1: Technical set-up for trial
+## Task 1: Technical set-up for trial
 
 Check you are prepared for the trial. This step is the first in a series of tasks in order to ensure that the technical set-up is arranged well in advance of your trial  and lesson delivery. You will need to install an app or software to the class devices and you may well need to bring in expertise, seek permissions or source additional hardware. 
 
