@@ -17,7 +17,7 @@ All the Lesson Plans are structured in a consistent way with the following sub-h
 + Assessment opportunities
 + Preparation: subject knowledge and what you will need for the lesson.
 
-The Outline plan table breaks down delivery of the lesson in to timed activities which correlate with slides from the Presentation Slides. (Note that the Presentation Slides labels the activities in the top right-hand corner to help you navigate the lesson).
+The table in the Outline plan breaks down delivery of the lesson in to timed activities which correlate with slides from the Presentation Slides. (Note that the Presentation Slides labels the activities in the top right-hand corner to help you navigate the lesson).
 
 ![Modelling Outline Plan](images/ks1storytelling-OutlinePlan.gif)
 
