@@ -1,4 +1,4 @@
-## Lesson Plans and presentation slides
+## Lesson Plans and Presentation Slides
 Now, having read the overview and undertaken Lesson 1, Unit 1 ,you will now explore the 11 lessons in turn. Each lesson includes a Lesson Plan and Presentation Slides.
 You are now going to have the opportunity to explore the learning resources independently. You should take time now within the course to:
 + Get to grips with the units as a whole
