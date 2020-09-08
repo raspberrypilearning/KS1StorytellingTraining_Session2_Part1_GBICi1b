@@ -17,7 +17,7 @@ You can see in the Units Overview that the first topic consists of six weeks of 
 
 The second topic outlined in the Units Overview consists of six weeks of a unit for Digital Storytelling. The lessons form a journey that starts with exploring interactive animation tools. Over the course of the unit, learners will explore the programming concepts of sequencing, selection and repetition through the control of characters to produce a storyboard for a digital story.
 
-[Lesson Folders on screen and rest cursor on each folder](images/ks1storytelling-LessonFolderAccess.gif)
+![Lesson Folders on screen and rest cursor on each folder](images/ks1storytelling-LessonFolderAccess.gif)
 
 You will find the lesson plans, slides and associated resources in separate folders for Unit 1 Story-writing and Unit 2: Digital Storytelling
 Within each of the unit folders, you will have subfolders for all of the individual lessons and their associated resources.
