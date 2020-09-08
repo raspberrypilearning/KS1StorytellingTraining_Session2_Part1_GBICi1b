@@ -1,4 +1,6 @@
-## Part 1: Investigate online Storytelling resources
+## Part 1 Investigate online Storytelling resources
+Part 1 introduces you to the online Storytelling resources through links, video and tasks.
+
 ## Accessing the Storytelling resources
 In this session, you are going to focus on the lesson resources you will need for the Teaching Approach trial. You will have an opportunity to explore all the resources for yourself, try them out and think about how to implement the lessons in your own classroom.
 
