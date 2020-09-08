@@ -1,4 +1,3 @@
-## Part 1
 ## The resources
 
 The teaching resource folder includes:
