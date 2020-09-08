@@ -5,6 +5,6 @@ The first task is to undertake [Lesson 1, Unit 1, Story-writing](https://drive.g
 
 ![Modelling Lesson 1](images/ks1storytelling-Lesson1.gif)
 
-For this first task you will use two resources: the teacher-facing [Lesson Plan](https://docs.google.com/document/d/1ptqLfHIQOY21TtUtMdspEbetHGIfEIIuPpAY3Bjthbk/edit?usp=sharing) and the [Presentation slides for Lesson 1](https://docs.google.com/presentation/d/1vdB9fT2_-8fgi7Savm7bmh3nvPPkUmzHZQeglXPflMs/edit?usp=sharing) in the Lesson 1, [Unit 1 folder](https://docs.google.com/presentation/d/1vdB9fT2_-8fgi7Savm7bmh3nvPPkUmzHZQeglXPflMs/edit?usp=sharing) (again note that the Presentation Slides label the activities in the top right-hand corner to help you navigate the lesson).
+For this first task you will use two resources: the teacher-facing [Lesson Plan](http://ncce.io/uhZZcP) and the [Presentation Slides](http://ncce.io/cRWRfX) which are both in the Lesson 1, Unit 1 folder (again note that the Presentation Slides label the activities in the top right-hand corner to help you navigate the lesson).
 
 Make a note of anything which you need to clarify. You can use the feedback form to ask questions to the trial community. Or get in touch with us if you have any queries at any time before, during or after the trial by emailing the Gender Research Mailbox on [genderresearch@raspberrypi.org](genderresearch@raspberrypi.org).
