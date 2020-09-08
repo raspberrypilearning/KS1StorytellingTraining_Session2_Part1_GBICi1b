@@ -1,4 +1,3 @@
-## Part 1
 ## Overview
 
 The first document you need to read is the Units Overview which provides essential information relating to the teaching approach Storytelling trial, including details on preparing for the Units.
