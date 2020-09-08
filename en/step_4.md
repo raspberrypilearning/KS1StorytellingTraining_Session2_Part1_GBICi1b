@@ -1,9 +1,9 @@
-##Part 1
-##Task 1: Technical set-up for trial
+## Part 1
+## Task 1: Technical set-up for trial
 
 Check you are prepared for the trial. This step is the first in a series of tasks in order to ensure that the technical set-up is arranged well in advance of your trial  and lesson delivery. You will need to install an app or software to the class devices and you may well need to bring in expertise, seek permissions or source additional hardware. 
 
-##Devices and live demonstrations##
+**Devices and live demonstrations**
 Ideally, all demonstrations of programming should be done live. Set-up well in advance of the trial as you may well need to bring in expertise, seek permissions or source additional hardware. 
 
 For tablets/iPads, you will be able to chose connectivity from bluetooth, WiFi or hardware (such as an HDMI AV adaptor):
@@ -13,7 +13,7 @@ For tablets/iPads, you will be able to chose connectivity from bluetooth, WiFi o
 
 The practicalities of demonstration need to be considered when creating the seating plan. There are real benefits to live demonstration which will require that teachers practise modifying and creating the programs in ScratchJr which are referenced within the lessons. If demonstration is not practical, each set of lesson slides offers an alternative to live demonstration. 
 
-##ScratchJr##
+**ScratchJr**
 Download the ScratchJr app on your chosen computer devices. Follow the relevant link below: 
 + Android device such as tablets - [GooglePlay](https://play.google.com/store/apps/details?id=org.scratchjr.android&hl=en_GB)
 + iPads - [App Store](https://apps.apple.com/us/app/scratchjr/id895485086)
