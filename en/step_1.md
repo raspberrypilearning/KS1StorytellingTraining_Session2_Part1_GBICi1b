@@ -10,7 +10,7 @@ Links to all of the resources can also be found in your [Project Guide](https://
 
 The resources consist of two sub-folders and three documents. Feel free to download the resources or access them each time you need them from this webpage. You may wish to bookmark the link to the resources in the browser toolbar of the teacher’s tablet/iPad/computer for ease of reference. 
 
-[Modelling access webpage](images/ks1storytelling-WebpageAccess.gif)
+![Modelling access webpage](images/ks1storytelling-WebpageAccess.gif)
 
 The resources prepared for the trial period include twelve 1-hour lessons. You will implement the teaching approach within fully-resourced lessons: six weeks on Story-writing and six weeks on Digital Storytelling.
 
