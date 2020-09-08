@@ -1,6 +1,5 @@
 ## Part 1: Investigate online Storytelling resources
-
-##Accessing the Storytelling resources## 
+## Accessing the Storytelling resources
 In this session, you are going to focus on the lesson resources you will need for the Teaching Approach trial. You will have an opportunity to explore all the resources for yourself, try them out and think about how to implement the lessons in your own classroom.
 
 Part 1 of this session introduces you to the [Storytelling Resource portal](http://ncce.io/KS1Storytelling) where you can explore all the resources for Unit 1 & 2, Storytelling trial. The webpage is the access portal for all the resources relating to the Storytelling trial. Here you can follow links to Google Docs and Google Slides OR download the resources as Microsoft documents.
