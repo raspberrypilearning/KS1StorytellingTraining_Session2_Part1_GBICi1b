@@ -22,3 +22,8 @@ You will find the lesson plans, slides and associated resources in separate fold
 Within each of the unit folders, you will have subfolders for all of the individual lessons and their associated resources.
 
 Together, these will be all the resources you need to participate in the Teaching Approach trial.
+
+Click the green button (below right) for the next step in this session.
+
+If you need to go back to the list of contents for this session (Session 2, Part 1), click [here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session2_Part1_GBICi1b). 
+If you need to access the menu for Session 1 and Session 2 (Parts 1 & 2), click [here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b).
