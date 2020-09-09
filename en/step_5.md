@@ -8,3 +8,8 @@ The first task is to undertake [Lesson 1, Unit 1, Story-writing](https://drive.g
 For this first task you will use two resources: the teacher-facing [Lesson Plan](http://ncce.io/uhZZcP) and the [Presentation Slides](http://ncce.io/cRWRfX) which are both in the Lesson 1, Unit 1 folder (again note that the Presentation Slides label the activities in the top right-hand corner to help you navigate the lesson).
 
 Make a note of anything which you need to clarify. You can use the feedback form to ask questions to the trial community. Or get in touch with us if you have any queries at any time before, during or after the trial by emailing the Gender Research Mailbox on [genderresearch@raspberrypi.org](genderresearch@raspberrypi.org).
+
+Click the green button (below right) for the next step in this session.
+
+If you need to go back to the list of contents for this session (Session 2, Part 1), click [here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session2_Part1_GBICi1b). 
+If you need to access the menu for Session 1 and Session 2 (Parts 1 & 2), click [here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b).
