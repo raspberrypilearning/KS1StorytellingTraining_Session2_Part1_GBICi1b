@@ -14,3 +14,7 @@ The resources consist of two sub-folders and three documents. Feel free to downl
 
 The resources prepared for the trial period include twelve 1-hour lessons. You will implement the teaching approach within fully-resourced lessons: six weeks on Story-writing and six weeks on Digital Storytelling.
 
+Click the green button (below right) for the next step in this session.
+
+If you need to go back to the list of contents for this session (Session 2, Part 1), click [here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session2_Part1_GBICi1b). 
+If you need to access the menu for Session 1 and Session 2 (Parts 1 & 2), click [here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b).
