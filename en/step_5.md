@@ -1,4 +1,3 @@
-## Part 1
 ## Task 2: What’s ScratchJr?
 You will familiarise yourself with ScratchJr and deepen your understanding of ScratchJr and the resources by completing the first lesson that the pupils themselves undertake.
 
