@@ -8,7 +8,7 @@ The teaching resource folder includes:
 + Post-survey (Presentation slide)
 + Extra Activity Backgrounds (Presentation slide)
 
-![Unit Overview on screen and scroll](images/ks1storytelling-UnitOverviewAccess.gif)
+![Unit Overview on screen and scroll](images/ks1storytelling-AccessMainFolder.png)
 
 You will be using ScratchJr to teach key programming concepts to produce interactive animations. The resources for the 12-week trial are written for both the ScratchJr app and an emulator. Learners need not be familiar with programming at the start of the trial. Educators should be familiar with the ScratchJr Interface, Blocks, and Coding Area, as well as Characters. Detailed instructions for completing each task are provided in the lesson plans so that educators who are less familiar with ScratchJr are able to practice in advance when preparing for the lessons. Session 2 focuses on building up your expertise in SrcatchJr and your familiarity with the resources.
 
