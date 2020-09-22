@@ -6,6 +6,8 @@ In this session, you are going to focus on the lesson resources you will need fo
 
 Part 1 of this session introduces you to the [Storytelling Resource portal](http://ncce.io/KS1Storytelling) where you can explore all the resources for Unit 1 & 2, Storytelling trial. The webpage is the access portal for all the resources relating to the Storytelling trial. Here you can follow links to Google Docs and Google Slides OR download the resources as Microsoft documents.
 
+![Modelling access webpage](images/ks1storytelling-Webpage.png)
+
 Links to all of the resources can also be found in your [Project Guide](https://docs.google.com/document/d/1GCvtNeQWBAr_5M2xajIXmoqcHco7WPEtvMrsf-v4oGI/edit?usp=sharing), [Unit Overview](ncce.io/glxPE8) and also accessed via the [Google Drive](ncce.io/l9Spga).
 
 The resources consist of two sub-folders and three documents. Feel free to download the resources or access them each time you need them from this webpage. You may wish to bookmark the link to the resources in the browser toolbar of the teacher’s tablet/iPad/computer for ease of reference. 
