@@ -3,8 +3,6 @@ You will familiarise yourself with ScratchJr and deepen your understanding of Sc
 
 The first task is to undertake [Lesson 1, Unit 1, Story-writing](https://drive.google.com/drive/folders/1b7wA-cY3q54rqUilU_Fd245pC95bfdfv?usp=sharing) (L1: What’s ScratchJr? Unit1_GBICi1b_KS1Storytelling). This lesson introduces you to both ScratchJr’s interface, including the blocks as well as set the scene for Unit 1 - introducing characters and structure in familiar songs. Lesson 1 will introduce you to the programming environment ScratchJr where you will create a simple computer program by moving a character.
 
-![Modelling Lesson 1](images/ks1storytelling-Lesson1.gif)
-
 For this first task you will use two resources: the teacher-facing [Lesson Plan](http://ncce.io/uhZZcP) and the [Presentation Slides](http://ncce.io/cRWRfX) which are both in the Lesson 1, Unit 1 folder (again note that the Presentation Slides label the activities in the top right-hand corner to help you navigate the lesson).
 
 **MAY NEED TO CHANGE THIS 
