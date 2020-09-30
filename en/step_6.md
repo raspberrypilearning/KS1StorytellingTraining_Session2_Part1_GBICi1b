@@ -33,9 +33,9 @@ Make a note of anything which you need to clarify. You can use the feedback form
 
 Part two of this session explores two lessons in detail giving you the opportunity to develop a working understanding of the relationship between the Lesson Plans and the Presentation Slides as well as to experience the lessons from the pupils' perspective. You will begin to code in ScratchJr and develop an interactive animation.
 
-**Please DO NOT click the green 'What's next' button (below-right) as this link is NOT relevant to this training course.**
-
 Click [here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session2_Part2_GBICi1b) to access the next part to this session (Session 2, Part 2).
 
 If you need to go back to the list of contents for this session (Session 2, Part 1), click [here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session2_Part1_GBICi1b). 
 If you need to access the menu for Sessions 1, 2 and 3, click [here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b).
+
+**Please DO NOT click the green 'What's next' button (below-right) as this link is NOT relevant to this training course.**
