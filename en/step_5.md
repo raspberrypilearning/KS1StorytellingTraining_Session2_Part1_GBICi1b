@@ -11,4 +11,4 @@ Make a note of anything which you need to clarify. You can use the feedback form
 Click the green button (below right) for the next step in this session.
 
 If you need to go back to the list of contents for this session (Session 2, Part 1), click [here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session2_Part1_GBICi1b). 
-If you need to access the menu for Session 1 and Session 2 (Parts 1 & 2), click [here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b).
+If you need to access the menu for Sessions 1, 2 and 3, click [here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b).
