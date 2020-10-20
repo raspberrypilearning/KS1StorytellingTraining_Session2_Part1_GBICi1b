@@ -19,3 +19,8 @@ Download the ScratchJr app on your chosen computer devices. Follow the relevant 
 + Desktop computer - [Emulator](https://jfo8000.github.io/ScratchJr-Desktop). The link gives information on the latest install for Mac or Windows computers.
 
 For all activities in the Units, learners can work in pairs. If sharing devices, organise pupils’ seating in advance to allow for pairings. If you do choose for pupils to work in pairs and there is an odd number of pupils, then three pupils can work together. Preallocate an area in the classroom for them to ensure that they have plenty of space and a good monitor. Ensure that pairs take regular equivalent turns controlling their shared device so that one pupil does not dominate the other. 
+
+Click the green button (below right) for the next step in this session.
+
+If you need to go back to the list of contents for this session (Session 2), click [here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session2_GBICi1b). 
+If you need to access the menu for Sessions 1, 2 and 3, click [here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b).

@@ -13,3 +13,8 @@ You will note that some of the information in the Unit Overview, such as data co
 + Survey
 
 ![Modelling Unit Overview](images/ks1storytelling-UnitOverview.gif)
+
+Click the green button (below right) for the next step in this session.
+
+If you need to go back to the list of contents for this session (Session 2), click [here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session2_GBICi1b). 
+If you need to access the menu for Sessions 1, 2 and 3, click [here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b).
