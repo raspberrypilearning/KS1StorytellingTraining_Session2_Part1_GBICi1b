@@ -8,7 +8,7 @@ The session introduces you to the ['Storytelling' resource portal](http://ncce.i
 
 ![Modelling access webpage](images/ks1storytelling-Webpage.png)
 
-You can also find links to all of the resources in your [Project guide](https://docs.google.com/document/d/1GCvtNeQWBAr_5M2xajIXmoqcHco7WPEtvMrsf-v4oGI/edit?usp=sharing) and [Units overview](ncce.io/glxPE8), and you can also access them via [Google Drive](ncce.io/l9Spga).
+You can also find links to all of the resources in your [Project guide](https://ncce.io/k2zQga) and [Units overview](https://ncce.io/glxPE8), and you can also access them via [Google Drive](https://ncce.io/l9Spga).
 
 The resources consist of two subfolders and three documents. Feel free to download the resources or access them each time you need them from this webpage. You may wish to bookmark the link to the resources in the browser toolbar of your tablet/iPad/computer for ease of reference in the classroom. 
 
