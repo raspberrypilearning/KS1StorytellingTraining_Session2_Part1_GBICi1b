@@ -3,7 +3,7 @@
 The teaching resource folder includes:
 + Units overview (text document)
 + Unit 1 – Story-writing (folder)
-+ Unit 2 – Storytelling (folder)
++ Unit 2 – Digital storytelling (folder)
 + Pre-survey (presentation slide)
 + Post-survey (presentation slide)
 + Extra activity: Backgrounds (presentation slide)
@@ -18,8 +18,7 @@ The second topic outlined in the Units overview consists of six lessons in a uni
 
 ![Lesson Folders on screen and rest cursor on each folder](images/ks1storytelling-LessonFolderAccess.gif)
 
-You will find the lesson plans, slides, and associated resources in separate folders for Unit 1 – 'Story-writing' and Unit 2 – 'Digital storytelling'.
-Within each of the unit folders, you will find subfolders for all of the individual lessons and their associated resources.
+You will find the lesson plans, slides, and associated resources in separate folders for Unit 1 – 'Story-writing' and Unit 2 – 'Digital storytelling'. Within each of the unit folders, you will find subfolders for all of the individual lessons and their associated resources.
 
 These documents are all the resources you need to participate in the Teaching Approach trial.
 
