@@ -1,16 +1,15 @@
 ## The Units overview
 
-The first document that you need to read is the Units overview, which provides essential information relating to the teaching approach Storytelling trial, including details on preparing for the Units.
+The first document that you need to read is the Units overview, which provides essential information relating to the 'Storytelling' Teaching Approach trial, including details on preparing to deliver the lessons.
 
 You will see that each lesson is set out with a brief description and the learning objectives and success criteria for that lesson. The overview also includes links to the relevant lesson plans and resources. 
 
-You will note that some of the information in the Units overview, such as data collection, has been covered elsewhere in the training sessions. This document offers a useful place to go as a signpost and reminder of key considerations. The document includes:
-+ Introduction
+You will note that some of the information in the Units overview, such as information about the surveys, has been covered elsewhere in the training sessions. The Units overview offers a useful place to go as a signpost and reminder of key considerations. The document includes information about the following:
 + Resources
 + Subject knowledge
-+ ScratchJr app
++ ScratchJr 
 + Devices and live demonstration
-+ Survey
++ Surveys
 
 ![Modelling Unit Overview](images/ks1storytelling-UnitOverview.gif)
 
