@@ -1,6 +1,6 @@
-## Task 1: Technical setup for the project
+## Task 1: Technical setup for the trial
 
-Check that you are prepared for the project. This step is the first in a series of tasks in order to ensure that the technical setup is arranged well in advance of delivering the lessons. You will need to install an app or software to the class devices and you may need to bring in expertise, seek permissions, or source additional hardware. 
+Check that you are prepared for the trial. This step is the first in a series of tasks in order to ensure that the technical setup is arranged well in advance of delivering the lessons. You will need to install an app or software to the class devices and you may need to bring in expertise, seek permissions, or source additional hardware. 
 
 **Devices and live demonstrations**
 Ideally, all demonstrations of programming should be done live. Set up well in advance of delivering the lessons as you may need to bring in expertise, seek permissions, or source additional hardware. 
@@ -8,7 +8,7 @@ Ideally, all demonstrations of programming should be done live. Set up well in a
 For tablets/iPad, you will be able to choose between Bluetooth connectivity, wireless LAN connectivity, or connectivity through hardware (such as an HDMI AV adapter):
 + Android tablet — search online for "screen mirroring" with the make/model of your device.
 + iPad — follow [information on AirPlay](https://support.apple.com/en-us/HT204289) or [information on AV adapters](https://support.apple.com/en-us/HT202044). 
-+ Desktop computer — it is possible to demonstrate from the teacher's interactive whiteboard or an alternative monitor using the [ScratchJr Emulator](https://jfo8000.github.io/ScratchJr-Desktop), which works on a desktop computer (Microsoft Windows or macOS). You may wish to use a desktop emulator to demonstrate, while pupils use tablets/iPad.
++ Desktop computer — it is possible to demonstrate from the teacher's interactive whiteboard or an alternative monitor using the [ScratchJr emulator](https://jfo8000.github.io/ScratchJr-Desktop), which works on a desktop computer (Microsoft Windows or macOS). You may wish to use a desktop emulator to demonstrate, while pupils use tablets/iPad.
 
 You should consider the practicalities of demonstration when creating the seating plan. There are real benefits to live demonstration. In advance of the demonstrations, we recommend that you practise modifying and creating the programs in ScratchJr that are referenced in the lessons. However, if live demonstration is not practical, each set of lesson slides offers an alternative to live demonstration. 
 
