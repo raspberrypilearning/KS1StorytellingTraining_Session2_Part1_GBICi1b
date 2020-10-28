@@ -2,7 +2,7 @@
 Session 2 introduces you to the online 'Storytelling' resources through links, video, and tasks. There are two tasks in this session. The second task focuses on completing a lesson that the pupils themselves undertake.
 
 ## Accessing the 'Storytelling' resources
-In this session, you are going to focus on the lesson resources that you will need for the Teaching Approach project. You will have an opportunity to explore all the resources yourself, try them out, and think about how to implement the lessons in your classroom.
+In this session, you are going to focus on the lesson resources that you will need for the Teaching Approach trial. You will have an opportunity to explore all the resources yourself, try them out, and think about how to implement the lessons in your classroom.
 
 The session introduces you to the ['Storytelling' resource portal](http://ncce.io/KS1Storytelling), where you can explore all the resources for Units 1 and 2 of the 'Storytelling' Teaching Approach trial. Here you can access the resources online in Google Docs and Google Slides, or you can download the resources as Microsoft Word and Microsoft PowerPoint files.
 
