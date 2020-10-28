@@ -31,7 +31,7 @@ Investigate the resources.
 
 Make a note of anything that you need to clarify. You can use the feedback form to ask questions to the trial community. You can also get in touch with us by email if you have any queries at any time before, during, or after the trial via [genderresearch@raspberrypi.org](mailto:genderresearch@raspberrypi.org).
 
-In Session 3, you will explore two lessons in detail, giving you the opportunity to develop a working understanding of the  correlation between the lesson plans and the presentation slides, and to experience the lessons from the pupils' perspective. You will begin to code in ScratchJr and develop an interactive animation.
+In Session 3, you will explore two lessons in detail, giving you the opportunity to develop a working understanding of the correlation between the lesson plans and the presentation slides, and to experience the lessons from the pupils' perspective. You will continue to code in ScratchJr and develop an interactive animation.
 
 You can access the [next session (Session 3) here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session3_GBICi1b).
 
