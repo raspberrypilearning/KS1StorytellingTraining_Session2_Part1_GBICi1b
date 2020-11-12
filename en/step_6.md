@@ -27,8 +27,6 @@ All the presentation slides are structured in a consistent way, beginning with a
 
 ![Modelling explore Presentation Slides](images/ks1storytelling-PresentationSlides.gif)
 
-Investigate the resources.
-
 Make a note of anything that you need to clarify. You can use the feedback form to ask questions to the trial community. You can also get in touch with us by email if you have any queries at any time before, during, or after the trial via [genderresearch@raspberrypi.org](mailto:genderresearch@raspberrypi.org).
 
 In Session 3, you will explore two lessons in detail, giving you the opportunity to develop a working understanding of the correlation between the lesson plans and the presentation slides, and to experience the lessons from the pupils' perspective. You will continue to code in ScratchJr and develop an interactive animation.
