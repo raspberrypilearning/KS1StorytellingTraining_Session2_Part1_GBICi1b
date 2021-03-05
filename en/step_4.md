@@ -1,6 +1,6 @@
-## Task 1: Technical setup for the trial
+## Task 1: Technical setup for the project
 
-Check that you are prepared for the trial. This step is the first in a series of tasks in order to ensure that the technical setup is arranged well in advance of delivering the lessons. You will need to install an app or software to the class devices and you may need to bring in expertise, seek permissions, or source additional hardware. 
+Check that you are prepared for the project. This step is the first in a series of tasks in order to ensure that the technical setup is arranged well in advance of delivering the lessons. You will need to install an app or software to the class devices and you may need to bring in expertise, seek permissions, or source additional hardware. 
 
 **Devices and live demonstrations**
 Ideally, all demonstrations of programming should be done live. Set up well in advance of delivering the lessons as you may need to bring in expertise, seek permissions, or source additional hardware. 
@@ -17,8 +17,6 @@ Download the ScratchJr app on your chosen devices. Follow the relevant link belo
 + Android devices, including tablets — [Google Play](https://play.google.com/store/apps/details?id=org.scratchjr.android&hl=en_GB)
 + iPad — [App Store](https://apps.apple.com/us/app/scratchjr/id895485086)
 + Desktop computer — [emulator](https://jfo8000.github.io/ScratchJr-Desktop). The website gives information on the latest version for macOS or Microsoft Windows.
-
-For all activities in these units, learners can work in pairs. If pupils are sharing devices, organise pupils' seating in advance to allow for pairings. If you choose for pupils to work in pairs and there is an odd number of pupils, then three pupils can work together. Preallocate an area in the classroom for them, and ensure that they have plenty of space and a good monitor. Ensure that pupils take regular equivalent turns controlling their shared device so that one pupil does not dominate the activity.
 
 Click the green button (below right) to go to the next step in this session.
 
