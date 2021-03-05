@@ -1,6 +1,6 @@
 ## The Units overview
 
-The first document that you need to read is the Units overview, which provides essential information relating to the 'Storytelling' Teaching Approach trial, including details on preparing to deliver the lessons.
+The first document that you need to read is the Units overview, which provides essential information relating to the Storytellng project, including details on preparing to deliver the lessons.
 
 You will see that each lesson is set out with a brief description and the learning objectives and success criteria for that lesson. The overview also includes links to the relevant lesson plans and resources. 
 
